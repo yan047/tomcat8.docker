@@ -1,6 +1,6 @@
 # Version: 1
 # Name: tomcat8
-# Copy from thenewvu/oracle-jdk8
+
 FROM yan047/jdk8
 
 MAINTAINER "boyan.au@gmail.com"
